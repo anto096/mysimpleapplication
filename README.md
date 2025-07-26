@@ -1,0 +1,2 @@
+# mysimpleapplication
+ class
